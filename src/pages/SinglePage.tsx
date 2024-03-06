@@ -6,6 +6,7 @@ import { Article } from './Landing'
 import { IconType } from 'react-icons'
 
 
+
 interface Props {
   article: Article
   icon: IconType
